@@ -3,7 +3,8 @@
     <meta charset="UTF-8">
 </head>
 <body>
-<h1>FreeCodeCamp - The ExtraMundane Project: WatchList</h1>
+<h1>An ExtraMundane Project: WatchList</h1>
+<h2>FreeCodeCamp</h2>
 
 http://emlabs.xyz/index.html
 
